@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-def run():
+def run() -> None:
     print("Welcome to the K-Means in Modern Python session!")
 
 
