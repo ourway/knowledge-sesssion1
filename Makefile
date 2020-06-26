@@ -20,3 +20,6 @@ dis:
 
 profile:
 	@.venv/bin/python3 -c "from kmeans import k_means;import cProfile;cProfile.run('k_means([(1, 1, 1), (2, 2, 30), (3, 3, 3)], k=3, iterations=1)')"
+
+calls:
+	@.venv/bin/python3 -m cProfile kmeans.py | egrep -i "function calls"

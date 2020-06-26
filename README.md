@@ -33,7 +33,8 @@ To cover the following:
 ```
 
 Few ideas for next sessions:
+    - *   Extending Python with C
     - *   Bitcoin -- Let's build a transaction using pure Python
-    - *** Creating a software based network simulator
     - *** Building a file compression tools using machine learning
+    - **** Creating a software based network simulator (SDN)
     - *****  Writing a virtual machine in Python
