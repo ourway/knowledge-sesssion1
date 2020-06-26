@@ -16,6 +16,7 @@ To cover the following:
     - Understand what is K-mean algorithm.
     - Using short, beautiful code instead of spaghetti code.
     - Using Lambda, Partials, Caches, Zip stars, sampling, ...
+    - Profiling in Python.
     - Compiler Optimization tricks.
 
 
@@ -33,6 +34,6 @@ To cover the following:
 
 Few ideas for next sessions:
     - *   Bitcoin -- Let's build a transaction using pure Python
-    - **  Writing a virtual machine in Python
     - *** Creating a software based network simulator
     - *** Building a file compression tools using machine learning
+    - *****  Writing a virtual machine in Python
