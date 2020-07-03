@@ -15,14 +15,23 @@ To cover the following:
     - Steps to implement an algorithm.
     - Understand what is K-mean algorithm.
     - Using short, beautiful code instead of spaghetti code.
-    - Using Lambda, Partials, Caches, Zip stars, sampling, ...
-    - Profiling in Python.
-    - Compiler Optimization tricks.
+    - ** Using Lambda, Partials, Caches, Zip stars, sampling, ...
+    - ** Profiling in Python.
+    - ** Compiler Optimization tricks.
 
+
+## What's the roadmap?
+We will follow the following steps:
+    - Create a working not optimized solution.
+    - Optimise it.
+    - Bullet proof it (your home work maybe)
 
 ## Sample Data:
 ```python
 points = [(10, 41, 23), (22, 30, 29), (11, 42, 5), (20, 32, 4), (12, 40, 12), (21, 36, 23)]
+
+
+n = [565387674.45, 3217721030001.48009,321772103.408, 214514735.66,214514735.6005]
 ```
 
 
